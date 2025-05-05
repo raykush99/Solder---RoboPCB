@@ -14,6 +14,9 @@ Bill  of Materials:
   Photoresistor x1
   LED x2
   220 ohm resistor x1
+![image](https://github.com/user-attachments/assets/a2ea2384-f2c5-4c7f-a412-ebf9a1640fab)
+![image](https://github.com/user-attachments/assets/b8e1a3a9-4ab4-4ef0-be19-328e9410ea2f)
+![image](https://github.com/user-attachments/assets/843c6102-fc28-45fb-8a4c-649eb57c34c4)
 
 Slack Username: Kush Ray
   
