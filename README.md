@@ -2,21 +2,25 @@
 
 My PCB is in the shape of a robot head
 It includes two LEDS and one motor
-One LED is always on and changes britness based on light using a photoresistor
+One LED is always on and changes britness based on light using a photoresistor (updated to add a transitstor to use as a switch to make sure LED gets enough voltage) (since photresistor resistance is too high)
 The other LED is attached to a button that turns on only when the button is presses
 The motor is also connected to the button and has a potentiometer to control its power
 
 Bill  of Materials:
   Battery Cell x1
   Potentiometer x1
-  Push button x1
+  Push button x2
   Mini motor disc x1
   Photoresistor x1
   LED x2
-  220 ohm resistor x1
-![image](https://github.com/user-attachments/assets/cfb8ac56-12ab-4f83-a77a-a02f35fd4388)
-![image](https://github.com/user-attachments/assets/a07be773-c257-4eb8-913a-b18dcea1e6f1)
-![image](https://github.com/user-attachments/assets/69546bca-6e20-493a-a607-eb2dacfb67a3)
+  220 ohm resistor x2
+  2N3904 transistor x1
+
+![image](https://github.com/user-attachments/assets/4992e724-749f-429d-af0e-2bfd140d11ef)
+![image](https://github.com/user-attachments/assets/0d327d1c-eada-4a0e-b702-094a2afe77cb)
+![image](https://github.com/user-attachments/assets/bf2388b6-16c2-4684-b75a-94b4e373c96c)
+
+
 
 
 Slack Username: Kush Ray
