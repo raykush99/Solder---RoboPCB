@@ -5,6 +5,7 @@ It includes two LEDS and one motor
 One LED is always on and changes britness based on light using a photoresistor (updated to add a transitstor to use as a switch to make sure LED gets enough voltage) (since photresistor resistance is too high)
 The other LED is attached to a button that turns on only when the button is presses
 The motor is also connected to the button and has a potentiometer to control its power
+I incorporated a Pacific Rim theme onto the back of the pcb
 
 Bill  of Materials:
   Battery Cell x1
@@ -18,8 +19,9 @@ Bill  of Materials:
 
 ![image](https://github.com/user-attachments/assets/4992e724-749f-429d-af0e-2bfd140d11ef)
 ![image](https://github.com/user-attachments/assets/0d327d1c-eada-4a0e-b702-094a2afe77cb)
-![image](https://github.com/user-attachments/assets/bf2388b6-16c2-4684-b75a-94b4e373c96c)
-
+![image](https://github.com/user-attachments/assets/b56b6792-dc8c-4e3e-8c4d-733fa0a88095)
+![image](https://github.com/user-attachments/assets/b572a341-dae8-4269-990b-15425e73e942)
+![image](https://github.com/user-attachments/assets/524d38d2-3b8e-43dd-821b-5af9b1b42a0b)
 
 
 
