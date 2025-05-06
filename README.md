@@ -1,11 +1,5 @@
 # Solder---RoboPCB
-
-My PCB is in the shape of a robot head
-It includes two LEDS and one motor
-One LED is always on and changes britness based on light using a photoresistor (updated to add a transitstor to use as a switch to make sure LED gets enough voltage) (since photresistor resistance is too high)
-The other LED is attached to a button that turns on only when the button is presses
-The motor is also connected to the button and has a potentiometer to control its power
-I incorporated a Pacific Rim theme onto the back of the pcb
+My PCB is in the shape of a robot head. It includes two LEDS and one motor. One LED can be turned on by a button and changes brightness based on light using a photoresistor (updated to add a transistor to use as a switch to make sure LED gets enough voltage) (since photoresistor resistance is too high). The other LED is attached to a button that turns on only when the button is pressed. The motor is also connected to the button and has a potentiometer to control its power. I incorporated a Pacific Rim theme onto the back of the pcb.
 
 Bill  of Materials:
   Battery Cell x1
